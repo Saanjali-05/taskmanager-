@@ -1,2 +1,16 @@
-# taskmanager-
-🗂️ Task Manager – Web App  A modern and responsive task management web application built with HTML, CSS, and JavaScript. Designed with a premium minimalist UI, it allows users to create, edit, delete, and mark tasks as complete, all while storing data securely in the browser using LocalStorage.
+# 🗂️ Task Manager – Web App
+
+A modern and responsive **Task Management** web app built with **HTML, CSS, and JavaScript**.  
+It allows users to **add, edit, delete, and mark tasks as complete**, with all data stored locally using **LocalStorage** for persistence.
+
+## ✨ Features
+- Add, edit, delete tasks  
+- Mark as completed  
+- Persistent data with LocalStorage  
+- Minimal and elegant UI  
+- Fully responsive  
+
+## 🛠️ Tech Stack
+- HTML  
+- CSS  
+- JavaScript  
